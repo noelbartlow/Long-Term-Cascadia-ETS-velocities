@@ -21,7 +21,7 @@ T_min=50;
 
 
 
-save_file='secular_PBO_Nov19_8.mat';
+save_file='secular_UNR_Nov19_8.mat';
 clear durations
 
 for k=1:length(stations) %inital length QC
